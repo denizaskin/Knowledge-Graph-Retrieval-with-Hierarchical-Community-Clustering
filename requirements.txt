@@ -1,0 +1,11 @@
+python-dotenv
+neo4j
+nest_asyncio
+numpy
+python-igraph
+leidenalg
+scikit-learn
+tavily-python
+neo4j-graphrag
+sentence-transformers
+openai
