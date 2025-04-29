@@ -1,8 +1,4 @@
-Here’s the formal README you requested, crafted in the style of the Medium article but keeping it appropriate for a GitHub project:
-
-⸻
-
-Knowledge Graph Retrieval with Hierarchical Community Clustering
+**Knowledge Graph Retrieval with Hierarchical Community Clustering**
 
 Author: Deniz Askin, Ph.D.
 Edited by: ChatGPT o1-pro
@@ -10,7 +6,7 @@ License: © Deniz Askin
 
 ⸻
 
-Overview
+**Overview**
 
 Retrieving knowledge from large datasets is challenging, especially when relevant concepts are scattered across multiple documents without explicit links. This project addresses the problem by building Knowledge Graphs enhanced through Hierarchical Community Detection and LLM-based Naming, significantly narrowing the search space for answering complex, cross-document questions.
 
@@ -25,7 +21,7 @@ The result is a system capable of scalable, semantically aware, and human-friend
 
 ⸻
 
-How It Works
+**How It Works**
 
 1. Web Scraping and Data Collection
 
@@ -78,7 +74,7 @@ Key Features
 
 ⸻
 
-Example Use Case
+**Example Use Case**
 
 Question: “What is the similarity between Leo Messi and System of a Down?”
 
@@ -115,7 +111,7 @@ Technologies Used
 
 ⸻
 
-Installation
+**Installation**
 
 pip install -r requirements.txt
 
@@ -130,7 +126,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ⸻
 
-Running the Pipeline
+**Running the Pipeline**
 
 python main.py
 
@@ -138,7 +134,7 @@ Modify the question, web_scraping_questions, and index_name in the if __name__ =
 
 ⸻
 
-Citation
+**Citation**
 
 If you use this code or approach, please cite:
 
@@ -146,7 +142,7 @@ Askin, D. , Weiss, R. (2025). Optimizing Knowledge Retrieval with Hierarchical C
 https://medium.com/@denizaskin/by-deniz-askin-and-rotem-weiss-27fdbdb75816
 ⸻
 
-Final Thoughts
+**Final Thoughts**
 
 This two-step solution — combining first-level community detection and second-level super-community formation — provides a robust, scalable, and intelligent method for retrieving information from large, messy document collections. It mirrors how the human brain structures memory: clustering related pieces together to retrieve information quickly and meaningfully.
 
