@@ -146,6 +146,6 @@ Askin, D., Weiss, R. (2025). Optimizing Knowledge Retrieval with Hierarchical Cl
 
 ⸻
 
-💬 Final Thoughts
+💬 **Final Thoughts**
 
 By combining first-level community detection and second-level super-community formation, this project creates an intelligent, scalable, and human-readable knowledge retrieval system — mirroring the brain’s efficiency in memory organization.
